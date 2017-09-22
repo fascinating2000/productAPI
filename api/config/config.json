@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "",
+    "username": "carlos",
+    "password": "carlos2201",
     "database": "products",
-    "host": "127.0.0.1",
+    "host": "prodcut-test-mysql-db.c51alx830f88.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
@@ -11,10 +11,10 @@
     "storage": ":memory:"
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "carlos",
+    "password": carlos2201,
     "database": "products",
-    "host": "127.0.0.1",
+    "host": "prodcut-test-mysql-db.c51alx830f88.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
