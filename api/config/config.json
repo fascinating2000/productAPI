@@ -12,7 +12,7 @@
   },
   "production": {
     "username": "carlos",
-    "password": carlos2201,
+    "password": "carlos2201",
     "database": "products",
     "host": "prodcut-test-mysql-db.c51alx830f88.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
