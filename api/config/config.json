@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "carlos",
-    "password": "carlos2201",
+    "username": "ktest",
+    "password": "star2201",
     "database": "products",
-    "host": "prodcut-test-mysql-db.c51alx830f88.us-east-2.rds.amazonaws.com",
+    "host": "k-test-mysqldb.cd3twvn3wgr1.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
