@@ -1,17 +1,13 @@
 // Product Back-end (Express.js + Sequelize)
 
-You can change database from api/config/config.json
+# Create your RDS instance
 
-"username": "root",
-"password": "",
-"database": "products",
-"host": "127.0.0.1",
-"dialect": "mysql"
+Create RDS instance in your desire
 
-You need mysql server and create database for product back-end
+Configure security group of your instance
 
-Installation
+Now connect to your instance and clone your repo
 
-npm install
+install packages by using npm install
 
-npm start
+You can run your back-end side by using PM2
